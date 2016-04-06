@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Learning Mocha and Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wileysb88/testing_testing_123.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "newbie"
+  ],
+  "author": "wileysb88",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wileysb88/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/wileysb88/testing_testing_123#readme"
+}
