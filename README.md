@@ -1,5 +1,7 @@
-# testing_testing_123
-Intro to testing with Mocha and Chai
+# Intro to testing with Mocha and Chai
+
+
+![BUILD STATUS](https://travis-ci.org/wileysb88/testing_testing_123.svg?branch=master)
 
 ## How do I test?
 
